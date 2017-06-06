@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<Azure Storage Connection String>",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=pdfazuresearchsa;AccountKey=ukk1BAzv+RHdIP0molHyaIXF4JgZBEMcwxA7DXL+lTIOZFLNZyZn/m2YVXZhLnbntbjwuO+wrBUluLVoBZ55Hg==;EndpointSuffix=core.windows.net",
     "BlobStore": "DefaultEndpointsProtocol=https;AccountName=pdfazuresearchsa;AccountKey=ukk1BAzv+RHdIP0molHyaIXF4JgZBEMcwxA7DXL+lTIOZFLNZyZn/m2YVXZhLnbntbjwuO+wrBUluLVoBZ55Hg==;EndpointSuffix=core.windows.net",
     "DocumentDBConnectionString": "https://pdfazuresearch.documents.azure.com:443/"
   }
