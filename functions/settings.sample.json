@@ -2,7 +2,7 @@
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "<Azure Storage Connection String>",
-    "BlobStore": "<Azure Storage Connection String>",
-    "DocumentDBConnectionString": "Azure Document DB (SQL API) Connection String>"
+    "BlobStore": "DefaultEndpointsProtocol=https;AccountName=pdfazuresearchsa;AccountKey=ukk1BAzv+RHdIP0molHyaIXF4JgZBEMcwxA7DXL+lTIOZFLNZyZn/m2YVXZhLnbntbjwuO+wrBUluLVoBZ55Hg==;EndpointSuffix=core.windows.net",
+    "DocumentDBConnectionString": "https://pdfazuresearch.documents.azure.com:443/"
   }
 }
